@@ -20,5 +20,32 @@ head {
 .title
 {
   text-transform: uppercase;
+  size: 1.5em;
+  color: #33485e;
 
+}
+
+.section {
+  size: 1.5em;
+  text-transform: uppercase;
+  background-color: #33485e;
+  color: white;
+  font-weight: 400;
+}
+
+.jobtitle {
+  font-weight: 600;
+  size: 1.5em;
+}
+
+.joborg {
+  font-weight: 400;
+  size: 1.5em;
+
+}
+
+.jobdate {
+  font-weight: 400;
+  font-style: italic;
+  size: 1em;
 }
