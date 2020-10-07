@@ -1,13 +1,13 @@
 p {
-  font-style: italic;
+  font-family: : OpenSans;
 }
 
 li {
-  font-style: italic;
+  font-family: OpenSans;
 }
 
 head {
-  font-style: italic;
+  font-family: OpenSans;
 }
 .name {
   font-size: 3em;
@@ -20,5 +20,5 @@ head {
 .title
 {
   text-transform: uppercase;
-  
+
 }
