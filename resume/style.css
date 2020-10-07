@@ -1,13 +1,19 @@
 p {
-  font-family: : OpenSans;
+  font-family: : "OpenSans";
+  size: 1em;
+  color: #444;
 }
 
 li {
-  font-family: OpenSans;
+  font-family: : "OpenSans";
+  size: 1em;
+  color: #444;
 }
 
 head {
-  font-family: OpenSans;
+  font-family: : "OpenSans";
+  size: 1em;
+  color: #444;
 }
 .name {
   font-size: 3em;
