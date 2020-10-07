@@ -5,6 +5,13 @@ p {
   font-weight: 400;
 }
 
+ul {
+  font-family: : "OpenSans", Arial, sans-serif;
+  size: 1em;
+  color: #444;
+  font-weight: 400;
+}
+
 li {
   font-family: : "OpenSans", Arial, sans-serif;
   size: 1em;
@@ -61,5 +68,5 @@ head {
 }
 
 .other {
-  size: 1em; 
+  size: 1em;
 }
