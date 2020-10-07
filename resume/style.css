@@ -9,3 +9,16 @@ li {
 head {
   font-style: italic;
 }
+.name {
+  font-size: 3em;
+  color: #33485e;
+  text-transform: uppercase;
+  text-align: center;
+
+}
+
+.title
+{
+  text-transform: uppercase;
+  
+}
