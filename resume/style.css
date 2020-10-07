@@ -3,5 +3,9 @@ p {
 }
 
 li {
+  font-family: OpenSans;
+}
+
+head {
   font-family: OpenSans; 
 }
