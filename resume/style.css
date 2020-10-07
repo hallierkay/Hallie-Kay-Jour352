@@ -2,19 +2,23 @@ p {
   font-family: : "OpenSans", Arial, sans-serif;
   size: 1em;
   color: #444;
+  font-weight: 400;
 }
 
 li {
   font-family: : "OpenSans", Arial, sans-serif;
   size: 1em;
   color: #444;
+  font-weight: 400;
 }
 
 head {
   font-family: : "OpenSans", Arial, sans-serif;
   size: 1em;
   color: #444;
+  font-weight: 400;
 }
+
 .name {
   font-size: 3em;
   color: #33485e;
@@ -54,4 +58,8 @@ head {
   font-weight: 400;
   font-style: italic;
   size: 1em;
+}
+
+.other {
+  size: 1em; 
 }
