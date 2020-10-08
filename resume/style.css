@@ -32,6 +32,12 @@ head {
   font-weight: 400;
 }
 
+h2{
+  text-transform: uppercase;
+  size: 1.5em;
+  color: #33485e;
+}
+
 h3 {
   font-weight: 600;
   size: 1.5em;
