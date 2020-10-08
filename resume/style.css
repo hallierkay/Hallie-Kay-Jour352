@@ -2,8 +2,11 @@
 
 /* paragraph selector */
 
-
+* {
+  font-family: OpenSans, Arial, sans-serif;
+  color: #444;
 }
+
 p {
   font-family: OpenSans, Arial, sans-serif;
   size: 1em;
@@ -36,15 +39,6 @@ head {
   font-weight: 400;
 }
 
-
-/* name selector */
-.name {
-  font-size: 3em;
-  color: #33485e;
-  text-transform: uppercase;
-  text-align: center;
-
-}
 
 /* title selector */
 .title
@@ -115,6 +109,11 @@ head {
 .menu {
   margin: 0px 0px 0px 0px;
   padding: 0px 0px 0px 0px;
+  text-align: center;
+  display: inline;
+}
+
+#li {
   text-align: center;
   display: inline;
 }
