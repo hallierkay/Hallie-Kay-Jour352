@@ -55,6 +55,15 @@ head {
 
 }
 
+.sectionheader {
+  margin-bottom: 10px;
+  margin-top: 20px;
+  margin-right: 0px;
+  margin-left: 0px;
+  width: 70%;
+  min-width: 300px;
+}
+
 /* section selector */
 .section {
   size: 1.5em;
@@ -62,6 +71,17 @@ head {
   background-color: #33485e;
   color: #FFFFFF;
   font-weight: 400;
+}
+
+.organization {
+  font-size: 1.25em;
+}
+
+.date {
+  margin-top: 2px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px; 
 }
 
 /* job title selector */
@@ -101,6 +121,16 @@ head {
   padding: 0px 0px 0px 0px;
   text-align: center;
   display: inline;
+}
+
+#name {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #33485e;
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto;
+  margin: center;
 }
 
 #degrees {
