@@ -1,6 +1,10 @@
 /* styles for my resume */
 
 /* paragraph selector */
+
+*{
+  font-family: OpenSans, Arial, sans-serif;
+}
 p {
   font-family: OpenSans, Arial, sans-serif;
   size: 1em;
@@ -71,7 +75,7 @@ h4 {
   size: 1.5em;
   text-transform: uppercase;
   background-color: #33485e;
-  color: #FFFFFF; 
+  color: #FFFFFF;
   font-weight: 400;
 }
 
