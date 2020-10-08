@@ -70,7 +70,8 @@ h4 {
 .section {
   size: 1.5em;
   text-transform: uppercase;
-  color: #33485e;
+  background-color: #33485e;
+  color: #FFFFFF; 
   font-weight: 400;
 }
 
