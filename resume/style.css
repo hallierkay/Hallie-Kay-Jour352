@@ -89,11 +89,18 @@ head {
   size: 1em;
 }
 
+#degrees {
+  margin-top: 5px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;  
+}
+
 #do {
   margin-top: 5px;
   margin-right: 0px;
   margin-bottom: 0px;
-  margin-left: 0px; 
+  margin-left: 0px;
 }
 
 #title {
