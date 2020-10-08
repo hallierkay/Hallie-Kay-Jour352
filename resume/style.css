@@ -97,13 +97,13 @@ head {
 /* job title selector */
 .jobtitle {
   font-weight: 600;
-  size: 2em;
+  size: 3em;
 }
 
 /* job organization selector */
 .joborg {
   font-weight: 400;
-  size: 1.5em;
+  size: 1.25em;
 
 }
 
