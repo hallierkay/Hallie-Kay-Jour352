@@ -33,7 +33,7 @@ head {
 }
 
 /* name selector */
-#name {
+.name {
   font-size: 3em;
   color: #33485e;
   text-transform: uppercase;
@@ -42,7 +42,7 @@ head {
 }
 
 /* title selector */
-#title
+.title
 {
   text-transform: uppercase;
   size: 1.5em;
@@ -51,7 +51,7 @@ head {
 }
 
 /* section selector */
-#section {
+.section {
   size: 1.5em;
   text-transform: uppercase;
   background-color: #33485e;
@@ -60,26 +60,26 @@ head {
 }
 
 /* job title selector */
-#jobtitle {
+.jobtitle {
   font-weight: 600;
   size: 1.5em;
 }
 
 /* job organization selector */
-#joborg {
+.joborg {
   font-weight: 400;
   size: 1.5em;
 
 }
 
 /* job dates selector */
-#jobdate {
+.jobdate {
   font-weight: 400;
   font-style: italic;
   size: 1em;
 }
 
-/* selector that includes COntact Info, Skills, and Education */
-#other {
+/* selector that includes Contact Info, Skills, and Education */
+.other {
   size: 1em;
 }
