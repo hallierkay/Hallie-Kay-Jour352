@@ -2,8 +2,7 @@
 
 /* paragraph selector */
 
-*{
-  font-family: OpenSans, Arial, sans-serif;
+
 }
 p {
   font-family: OpenSans, Arial, sans-serif;
@@ -104,19 +103,6 @@ head {
 .joborg {
   font-weight: 400;
   size: 1.25em;
-
-}
-
-/* job dates selector */
-.jobdate {
-  font-weight: 400;
-  font-style: italic;
-  size: 1em;
-}
-
-/* selector that includes Contact Info, Skills, and Education */
-.other {
-  size: 1em;
 }
 
 .description {
