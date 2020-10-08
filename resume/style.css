@@ -1,3 +1,6 @@
+/* styles for my resume */
+
+/* paragraph selector */
 p {
   font-family: : "OpenSans", Arial, sans-serif;
   size: 1em;
@@ -5,6 +8,7 @@ p {
   font-weight: 400;
 }
 
+/* unordered list selector */
 ul {
   font-family: : "OpenSans", Arial, sans-serif;
   size: 1em;
@@ -12,6 +16,7 @@ ul {
   font-weight: 400;
 }
 
+/* list selector */
 li {
   font-family: : "OpenSans", Arial, sans-serif;
   size: 1em;
@@ -19,6 +24,7 @@ li {
   font-weight: 400;
 }
 
+/* head selector */
 head {
   font-family: : "OpenSans", Arial, sans-serif;
   size: 1em;
@@ -26,7 +32,8 @@ head {
   font-weight: 400;
 }
 
-.name {
+/* name selector */
+#name {
   font-size: 3em;
   color: #33485e;
   text-transform: uppercase;
@@ -34,7 +41,8 @@ head {
 
 }
 
-.title
+/* title selector */
+#title
 {
   text-transform: uppercase;
   size: 1.5em;
@@ -42,7 +50,8 @@ head {
 
 }
 
-.section {
+/* section selector */
+#section {
   size: 1.5em;
   text-transform: uppercase;
   background-color: #33485e;
@@ -50,23 +59,27 @@ head {
   font-weight: 400;
 }
 
-.jobtitle {
+/* job title selector */
+#jobtitle {
   font-weight: 600;
   size: 1.5em;
 }
 
-.joborg {
+/* job organization selector */
+#joborg {
   font-weight: 400;
   size: 1.5em;
 
 }
 
-.jobdate {
+/* job dates selector */
+#jobdate {
   font-weight: 400;
   font-style: italic;
   size: 1em;
 }
 
-.other {
+/* selector that includes COntact Info, Skills, and Education */
+#other {
   size: 1em;
 }
