@@ -56,6 +56,11 @@ head {
 }
 
 .sectionheader {
+  font-size: 1.53em;
+  text-transform: uppercase;
+  background-color: #33485e;
+  color: #FFFFFF;
+  font-weight: 400;
   margin-bottom: 10px;
   margin-top: 20px;
   margin-right: 0px;
@@ -74,14 +79,18 @@ head {
 }
 
 .organization {
+  font-weight: 400;
   font-size: 1.25em;
 }
 
 .date {
+  font-style: italic;
+  font-weight: 400;
+  font-size: 1em;
   margin-top: 2px;
   margin-bottom: 0px;
   margin-left: 0px;
-  margin-right: 0px; 
+  margin-right: 0px;
 }
 
 /* job title selector */
@@ -124,6 +133,10 @@ head {
 }
 
 #name {
+  font-size: 3em;
+  color: #33485e;
+  text-transform: uppercase;
+  text-align: center;
   border-style: solid;
   border-width: 1px;
   border-color: #33485e;
@@ -148,6 +161,9 @@ head {
 }
 
 #title {
+  text-transform: uppercase;
+  font-size: 1.53em;
+  color: #33485e;
   font-weight: 600;
   text-align: center;
   margin-top: 20px;
