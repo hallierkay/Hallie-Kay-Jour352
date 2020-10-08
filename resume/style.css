@@ -1,12 +1,11 @@
 /* styles for my resume */
 
-/* paragraph selector */
-
 * {
   font-family: OpenSans, Arial, sans-serif;
   color: #444;
 }
 
+/* paragraph selector */
 p {
   font-family: OpenSans, Arial, sans-serif;
   size: 1em;
@@ -46,7 +45,6 @@ head {
   text-transform: uppercase;
   size: 1.5em;
   color: #33485e;
-
 }
 
 .sectionheader {
@@ -156,7 +154,6 @@ head {
   margin-right: 0px;
   margin-bottom: 0px;
   margin-left: 0px;
-
 }
 
 #container {
