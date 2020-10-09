@@ -114,6 +114,7 @@ head {
 #li {
   text-align: center;
   display: inline;
+  text-indent: center; 
 }
 
 #name {
