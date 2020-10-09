@@ -39,7 +39,7 @@ head {
 }
 
 
-/* title selector */
+/* main title selector */
 .title
 {
   text-transform: uppercase;
@@ -61,7 +61,7 @@ head {
   min-width: 300px;
 }
 
-/* section selector */
+
 .section {
   size: 1.5em;
   text-transform: uppercase;
@@ -85,13 +85,13 @@ head {
   margin-right: 0px;
 }
 
-/* job title selector */
+/* job title class selector */
 .jobtitle {
   font-weight: 600;
-  size: 4em;
+  size: 1.5em;
 }
 
-/* job organization selector */
+/* job organization class selector */
 .joborg {
   font-weight: 400;
   size: 1.25em;
@@ -104,6 +104,7 @@ head {
   margin-right: 0px;
 }
 
+/* class selector for contact info */
 .menu {
   margin: 0px 0px 0px 0px;
   padding: 0px 0px 0px 0px;
@@ -159,6 +160,7 @@ head {
   margin-left: 0px;
 }
 
+/* id selector for div, whole document */
 #container {
   width: 100%;
   max-width: 1200px;
