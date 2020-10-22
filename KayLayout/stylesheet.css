@@ -4,13 +4,8 @@
 }
 
 #pagetopper {
-  font-size: 1.53em;
-  text-transform: uppercase;
-  background-color: #33485e;
-  color: #FFFFFF;
-  font-weight: 400;
   text-align: center;
-  width: 70%;
+  width: 100%;
   min-width: 300px;
 }
 
