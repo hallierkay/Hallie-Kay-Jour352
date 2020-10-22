@@ -3,6 +3,17 @@
   width: 900px;
 }
 
+#pagetopper {
+  font-size: 1.53em;
+  text-transform: uppercase;
+  background-color: #33485e;
+  color: #FFFFFF;
+  font-weight: 400;
+  text-align: center;
+  width: 70%;
+  min-width: 300px;
+}
+
 blockquote {
   font: 24-x normal helvetica, sans-serif;
   font-style: italic;
