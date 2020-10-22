@@ -3,6 +3,11 @@
   width: 900px;
 }
 
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+
+
 #pagetopper {
   text-align: center;
   image-orientation: center;
