@@ -9,6 +9,12 @@
   min-width: 300px;
 }
 
+#headline {
+  text-align: center;
+  font-size: 20em;
+  font-weight: bold;
+}
+
 blockquote {
   font: 24-x normal helvetica, sans-serif;
   font-style: italic;
