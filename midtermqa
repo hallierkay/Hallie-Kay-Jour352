@@ -73,7 +73,7 @@ color: #000000;
 
 9.  What tag would we use to include an image on an HTML page? Just give me the name of the tag, you don't have to write out all the code.
 
-<img src="imagename" alt="alttext">
+<img src="imagename.png" alt="alttext">
 
 
 
