@@ -1,6 +1,8 @@
 1.  In the sentence below, put in the necessary code that would allow users to click on the word Google and open Google's homepage in a new browser:
 
-Google is the best search engine in the world.
+
+
+<a href="google.com">Google is the best search engine in the world.</a>
 
 
 
