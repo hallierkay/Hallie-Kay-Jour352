@@ -1,3 +1,5 @@
+p {
+}
 
 #container {
   column-count: 1;
@@ -27,7 +29,7 @@
 }
 
 blockquote {
-font: 24px normal helvetica, sans-serif;
+font: 45px normal helvetica, sans-serif;
 font-style: italic;
 margin-top: 15px;
 margin-bottom: 15px;
