@@ -7,7 +7,7 @@ Google is the best search engine in the world.
 
 2.  Describe the purpose of a DIV tag.
 
-
+A DIV tag is used to define a certain section in an HTML document. It allows the user to section off a certain area and apply stylistic changes to that section either within the HTML document itself, or through a linked CSS stylesheet.
 
 
 3.  Write out the basic structure of an HTML page, putting the basic tags in the correct position.  (Note: you don't need to connect it to a stylesheet or include DIV tags or anything like that).
@@ -78,6 +78,8 @@ color: #000000;
 
 
 10.  Why do we use media queries?
+
+In CSS, media queries are used to adjust a certain stylistic change, given that certain rules within the document are true.
 
 
 11. What is the main difference between a serif and a sans-serif font?
