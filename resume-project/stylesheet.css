@@ -11,10 +11,12 @@ ul {
 .navbar {
 font-family: Verdana, Arial, sans-serif;
 font-size: 20px;
-font-weight: normal;
+font-weight: bolder;
 text-transform: uppercase;
 text-align: center;
 align-items: center;
+background-color: #E2AD22;
+color: white; 
 }
 
 .img-fluid {
