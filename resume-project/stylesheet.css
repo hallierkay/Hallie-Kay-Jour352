@@ -9,7 +9,7 @@ ul {
 }
 
 .navbar {
-font-style: Verdana, Arial, sans-serif;
+font-family: Verdana, Arial, sans-serif;
 font-size: 20px;
 font-weight: normal;
 text-transform: uppercase;
@@ -34,8 +34,4 @@ padding-right:15px;
 padding-left:15px;
 margin-right:auto;
 margin-left:auto
-}
-
-.footer-right  {
-  float:right!important
 }
