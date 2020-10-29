@@ -1,5 +1,9 @@
 .navbar {
 font-style: "Sana" , Arial, sans-serif;
+font-size: 20px;
+font-weight: normal;
+text-transform: uppercase;
+text-align: center;
 }
 
 .img-fluid {
