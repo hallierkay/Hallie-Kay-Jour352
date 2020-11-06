@@ -31,3 +31,14 @@ h2 {
   text-decoration-color: white;
   margin: auto;
 }
+
+blockquote {
+font: 45px normal 'Forum', cursive;
+font-style: italic;
+margin-top: 15px;
+margin-bottom: 15px;
+color: #B53737;
+margin-left: 50px;
+padding-left: 15px;
+border-left: 4px solid #ccc;
+}
