@@ -1,31 +1,31 @@
 h1 {
-  font-family: 'Josefin Slab', serif;
+  font-family: 'Forum', cursive;
   text-transform: capitalize;
   font-size: 100px;
 }
 
 h2 {
-  font-family: 'Josefin Slab', serif;
-  font-size: 50px; 
+  font-family: 'Forum', cursive;
+  font-size: 50px;
 }
 
 #container {
-  font-family: 'Josefin Slab', serif;
+  font-family: 'Forum', cursive;
 }
 
 #head {
-  font-family: 'Josefin Slab', serif;
+  font-family: 'Forum', cursive;
   text-align: center;
 }
 
 #byline {
-  font-family: 'Josefin Slab', serif;
+  font-family: 'Forum', cursive;
 }
 
 #footer {
   text-align: center;
   background-color: black;
-  font-family: 'Josefin Slab', serif;
+  font-family: 'Forum', cursive;
   color: white;
   font-weight: bolder;
   text-decoration-color: white;
