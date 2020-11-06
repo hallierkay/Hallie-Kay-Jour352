@@ -32,6 +32,11 @@ h2 {
   margin: auto;
 }
 
+.caption {
+  font-family: 'Forum', cursive;
+  font-style: italic;
+}
+
 blockquote {
 font: 45px normal 'Forum', cursive;
 font-style: italic;
