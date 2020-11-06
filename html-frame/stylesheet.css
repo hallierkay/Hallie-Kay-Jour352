@@ -11,6 +11,7 @@ h2 {
 
 #container {
   font-family: 'Forum', cursive;
+  background-color: black;
 }
 
 #head {
@@ -38,7 +39,8 @@ h2 {
 }
 
 blockquote {
-font: 45px normal 'Forum', cursive;
+font-family: 'Forum', cursive;
+font-size: 50px; 
 font-style: italic;
 margin-top: 15px;
 margin-bottom: 15px;
