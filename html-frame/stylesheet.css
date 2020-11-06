@@ -1,12 +1,12 @@
 h1 {
   font-family: 'Forum', cursive;
-  text-transform: capitalize;
   font-size: 100px;
 }
 
 h2 {
   font-family: 'Forum', cursive;
   font-size: 50px;
+  text-decoration-color: #B53737;
 }
 
 #container {
