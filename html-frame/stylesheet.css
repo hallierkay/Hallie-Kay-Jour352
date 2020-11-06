@@ -2,6 +2,9 @@ h1 {
   font-family: 'Josefin Slab', serif;
 }
 
+h2 {
+  font-family: 'Josefin Slab', serif;
+}
 
 #container {
   font-family: 'Josefin Slab', serif;
@@ -21,5 +24,7 @@ h1 {
   background-color: black;
   font-family: 'Josefin Slab', serif;
   color: white;
+  font-weight: bolder;
+  text-decoration-color: white;
   margin: auto;
 }
