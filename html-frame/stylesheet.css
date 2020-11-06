@@ -4,4 +4,15 @@ h1 {
 
 #head {
   font-family: 'Josefin Slab', serif;
+  text-align: center;
+}
+
+#container {
+
+}
+
+#footer {
+  text-align: center;
+  background-color: black;
+  margin: auto;
 }
