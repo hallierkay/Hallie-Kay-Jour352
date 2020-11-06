@@ -9,6 +9,10 @@ h2 {
   text-decoration-color: #B53737;
 }
 
+p {
+  text-decoration-color: white;
+}
+
 #container {
   font-family: 'Forum', cursive;
   background-color: black;
