@@ -50,8 +50,14 @@
   background-color: #B53737;
   font-weight: 700;
   font-family: 'Forum', cursive;
-  font-size: 150px;
+  font-size: 100px;
 
+}
+
+.caption {
+  font-family: 'Forum', cursive;
+  font-style: italic;
+  font-size: 20px;
 }
 
 h1 {
@@ -94,12 +100,6 @@ h3 {
   font-weight: bolder;
   text-decoration-color: white;
   margin: auto;
-}
-
-.caption {
-  font-family: 'Forum', cursive;
-  font-style: italic;
-  font-size: 20px; 
 }
 
 blockquote {
