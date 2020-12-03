@@ -34,6 +34,13 @@ a[data-toggle="collapse"] {
     }
 }
 
+.top-nav {
+  color: #fff;
+  margin: 0 auto;
+  text-transform: uppercase;
+
+}
+
 h1 {
   font-family: 'Forum', cursive;
   font-size: 100px;
