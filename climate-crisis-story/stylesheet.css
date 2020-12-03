@@ -1,0 +1,50 @@
+h1 {
+  font-family: 'Forum', cursive;
+  font-size: 100px;
+}
+
+h2 {
+  font-family: 'Forum', cursive;
+  font-size: 50px;
+  text-decoration-color: #B53737;
+}
+
+#container {
+  font-family: 'Forum', cursive;
+}
+
+#head {
+  font-family: 'Forum', cursive;
+  text-align: center;
+}
+
+#byline {
+  font-family: 'Forum', cursive;
+}
+
+#footer {
+  text-align: center;
+  background-color: black;
+  font-family: 'Forum', cursive;
+  color: white;
+  font-weight: bolder;
+  text-decoration-color: white;
+  margin: auto;
+}
+
+.caption {
+  font-family: 'Forum', cursive;
+  font-style: italic;
+}
+
+blockquote {
+font-family: 'Forum', cursive;
+font-size: 50px;
+font-style: italic;
+margin-top: 15px;
+margin-bottom: 15px;
+color: #B53737;
+margin-left: 50px;
+padding-left: 15px;
+border-left: 4px solid #ccc;
+}
