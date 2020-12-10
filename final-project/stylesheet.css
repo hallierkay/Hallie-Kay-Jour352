@@ -4,13 +4,13 @@ h1 {
 }
 
 h2 {
-  font-family: 'Forum', cursive;
+  font-family: 'Raleway', sans-serif;
   font-size: 50px;
   text-decoration-color: #B53737;
 }
 
 #container {
-  font-family: inherit;
+  font-family: 'Raleway', sans-serif;
 }
 
 #head {
