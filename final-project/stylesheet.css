@@ -1,5 +1,5 @@
 h1 {
-  font-family: 'Forum', cursive;
+  font-family: 'Spectral', serif;
   font-size: 100px;
 }
 
@@ -10,22 +10,22 @@ h2 {
 }
 
 #container {
-  font-family: 'Forum', cursive;
+  font-family: inherit;
 }
 
 #head {
-  font-family: 'Forum', cursive;
+  font-family: 'Spectral', serif;
   text-align: center;
 }
 
 #byline {
-  font-family: 'Forum', cursive;
+  font-family: 'Raleway', sans-serif;
 }
 
 #footer {
   text-align: center;
   background-color: black;
-  font-family: 'Forum', cursive;
+  font-family: 'Raleway', sans-serif;
   color: white;
   font-weight: bolder;
   text-decoration-color: white;
@@ -33,12 +33,12 @@ h2 {
 }
 
 .caption {
-  font-family: 'Forum', cursive;
+  font-family: 'Raleway', sans-serif;
   font-style: italic;
 }
 
 blockquote {
-font-family: 'Forum', cursive;
+font-family: 'Spectral', serif;
 font-size: 50px;
 font-style: italic;
 margin-top: 15px;
