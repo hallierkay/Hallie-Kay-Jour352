@@ -16,6 +16,8 @@ h2 {
 #head {
   font-family: 'Spectral', serif;
   text-align: center;
+  background-color: black;
+  text-decoration-color:#B53737;
 }
 
 #byline {
