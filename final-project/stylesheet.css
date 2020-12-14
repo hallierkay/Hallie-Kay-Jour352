@@ -4,12 +4,12 @@ h1 {
 }
 
 p {
-
+  font-size: 20px;
 }
 
 #text {
   font-family: 'Raleway', sans-serif;
-  font-size: 20px;
+  font-size: 15px;
 }
 
 #container {
@@ -19,7 +19,7 @@ p {
   font-family: 'Spectral', serif;
   text-align: center;
   text-decoration-color: #B53737;
-  color: #B53737; 
+  color: #B53737;
   font-size: 100px;
 }
 
