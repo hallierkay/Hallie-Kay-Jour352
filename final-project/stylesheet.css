@@ -16,12 +16,6 @@ h1 {
   font-size: 18px;
 }
 
-.navbar navbar-dark bg-dark {
-background-color: black;
-}
-/* navbar customization found at https://medium.com/coder-grrl/the-guide-to-customising-the-bootstrap-4-navbar-i-wish-id-had-6-months-ago-7bc6ce0e3c71 */
-
-
 #head {
   font-family: 'Spectral', serif;
   text-align: center;
