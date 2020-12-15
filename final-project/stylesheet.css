@@ -24,6 +24,15 @@ h1 {
   font-size: 100px;
 }
 
+#headtwo {
+  font-family: 'Spectral', serif;
+  text-align: center;
+  text-decoration-color: white;
+  color: white;
+  background-color: black;
+  font-size: 100px;
+}
+
 #byline {
   font-family: 'Raleway', sans-serif;
 }
