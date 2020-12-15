@@ -10,6 +10,12 @@ h1 {
   margin: auto;
 }
 
+.caption {
+  font-family: 'Raleway', sans-serif;
+  font-style: italic;
+  font-size: 20px;
+}
+
 #head {
   font-family: 'Spectral', serif;
   text-align: center;
@@ -30,12 +36,6 @@ h1 {
   font-weight: bolder;
   text-decoration-color: white;
   margin: auto;
-}
-
-.caption {
-  font-family: 'Raleway', sans-serif;
-  font-style: italic;
-  font-size: 20px;
 }
 
 blockquote {
